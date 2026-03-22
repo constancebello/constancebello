@@ -1,5 +1,5 @@
 # Constance Bello
-[![LinkedIn](https://img.shields.io/badge/linkedin-1e77b5?style=for-the-badge)](https://linkedin.com/in/constancebellodev) [![Codeberg](https://img.shields.io/badge/codeberg-2185d0?style=for-the-badge)](https://codeberg.org/constancebello) [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge)](https://constancebello.dev)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-1e77b5?style=for-the-badge)](https://linkedin.com/in/constancebellodev) [![Codeberg](https://img.shields.io/badge/codeberg-2185d0?style=for-the-badge)](https://codeberg.org/constancebello) [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge)](https://constancebello.dev)
 
 Hi! I'm Constance and I've been programming for a really long time. Over the years I've created lots of personal projects big and small, and contributed to open source communities as well. I'm especially interested in backend development, increasing efficiency, and database logic. My portfolio has more information on what I've gotten up to thus far, but who knows what I'll end up doing next? Feel free to drop me a line at [me@constancebello.dev](mailto:me@constancebello.dev)!
 
